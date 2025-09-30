@@ -1,0 +1,9 @@
+[submodule "admin_panel"]
+	path = admin_panel
+	url = https://github.com/kotekhizanov/steem_front.git
+[submodule "client"]
+	path = client
+	url = https://github.com/kotekhizanov/streem_merged.git
+[submodule "server"]
+	path = server
+	url = https://github.com/kotekhizanov/steem_server.git
